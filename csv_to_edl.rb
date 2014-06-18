@@ -1,6 +1,5 @@
 require 'csv'
 require 'timecode'
-require 'edl'
 
 =begin
 the idea was to pass the CSV into an array of row object,
